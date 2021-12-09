@@ -12,6 +12,8 @@ public class Githubintro {
 			System.out.println("hurray");
 	
 		  System.out.println("I have made changes");
+		  System.out.println("I  made changes");
+
 
 	}
 
