@@ -3,7 +3,6 @@
   <groupId>com.crm.SDET26NG</groupId>
   <artifactId>com.crm.githubpractice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-</project>
 
 <dependencies> 
 <dependency>
@@ -45,3 +44,5 @@
     <version>5.1.0</version>
 </dependency>
 </dependencies>
+
+</project>

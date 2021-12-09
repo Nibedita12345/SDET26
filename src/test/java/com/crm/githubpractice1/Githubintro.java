@@ -2,7 +2,7 @@ package com.crm.githubpractice1;
 
 import org.testng.annotations.Test;
 
-public class githubintro {
+public class Githubintro {
 
 		
 		@Test
@@ -11,7 +11,7 @@ public class githubintro {
 			System.out.println("Pull");
 			System.out.println("hurray");
 	
-		  
+		  System.out.println("I have made changes");
 
 	}
 
