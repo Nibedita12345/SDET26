@@ -1,0 +1,20 @@
+package com.crm.githubpractice1;
+
+import org.testng.annotations.Test;
+
+public class GithubintroTest {
+
+		
+		@Test
+		public void githubintroTest() {
+			System.out.println("PUSH AND COMMIT");
+			System.out.println("Pull");
+			System.out.println("hurray");
+	
+		  System.out.println("I have made changes");
+		  System.out.println(" changes");
+
+
+	}
+
+}
